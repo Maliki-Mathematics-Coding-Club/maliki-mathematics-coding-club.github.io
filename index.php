@@ -172,7 +172,7 @@ header("Expires: 0");
                     </div>
                     <div class="daftar-item-detail">
                         <h4>Email</h4>
-                        <p>admnmmcc@gmail.com</p>
+                        <p>secondazzamt11@gmail.com</p>
                     </div>
                 </div>
             </div>
